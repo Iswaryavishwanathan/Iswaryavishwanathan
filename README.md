@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  a Full Stack Web Developer
+- 👋 Hi, I’m  a IoT & Full-Stack Developer
 - 🌱 I’m currently working at Raison Automation
 - 💬 Ask me about Java, Springboot, HTML, CSS, Java Script, React JS and Node JS 
 - 🎓 Education: MCA 24-graduate
